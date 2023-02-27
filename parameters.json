@@ -1,0 +1,11 @@
+{
+"s" : 10,
+"avg" : 10,
+"nodes" : 3,
+"time_t" : 1000,
+"init_n" : 5e-60,
+"edge_weights" : 0.005,
+"reduction" : 0.001,
+"proportion" : 0.4
+
+}
